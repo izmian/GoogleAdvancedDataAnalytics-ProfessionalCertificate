@@ -16,4 +16,6 @@ https://coursera.org/share/9b41cc32f14323fe5f243692ff1d1951
 
 Tableau https://public.tableau.com/app/profile/ismi.ana/vizzes
 
-#PACE #Python_Programming #Jupyter_Notebook #Coding #Data_Analytic #Data_Science #Data_Visualization
+#PACE #Python_Programming #Jupyter_Notebook #Coding #Data_Analytic #Data_Science #Data_Visualization 
+#Tableau_Software #Sampling (Statistics) #Machine_Learning #Statistical_Hypothesis_Testing #Feature_Engineering #Statistical_Analysis
+#Exploratory_Data_Analysis #Data_Science #Advanced_Analytics #Data_Presentation #Descriptive_Statistics
