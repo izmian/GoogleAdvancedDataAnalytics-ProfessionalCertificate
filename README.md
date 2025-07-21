@@ -8,6 +8,7 @@ Here I provided my Data Analytic portfolio of each course based on each project 
 4. The Power of Statistics
 5. Regression Analysis: Simplify Complex Data Relationships
 6. The Nuts and Bolts of Machine Learning
+7. Google Advanced Data Analytics Capstone
 
 Tableau https://public.tableau.com/app/profile/ismi.ana/vizzes
 
